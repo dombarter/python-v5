@@ -13,7 +13,8 @@ def autonomous(): # place autonomous code here
     pass
 
 def drivercontrol(): # palce main control code here
-    pass
+    while True:
+        pass
 
 
 competition = vex.Competition() # competition object
