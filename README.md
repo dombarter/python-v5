@@ -34,6 +34,8 @@ https://www.robotmesh.com/docs/vexv5-python/html/annotated.html
 
 For more examples than the ones provided please check out my main vex robotics repositiory https://github.com/dombarter/choochoochoo where you can see the code for the 2018-2019 Turning Point game. 
 
+If you have trouble with the documentation I would also recommend downloading the robot mesh IDE for a little while as this really helps with autocomplete and setting up parameters correctly. 
+
 # Help
 
 If you need any help with programming or designing robots please don't hesitate to contact me, my email can be found on my profile page: https://github.com/dombarter
