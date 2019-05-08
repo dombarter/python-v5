@@ -12,7 +12,7 @@ def pre_auton(): # place pre-auto code here
 def autonomous(): # place autonomous code here
     pass
 
-def drivercontrol(): # palce main control code here
+def drivercontrol(): # place main control code here
     while True:
         pass
 

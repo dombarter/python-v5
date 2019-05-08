@@ -30,3 +30,10 @@ For documentation on the vex python library:
 
 https://www.robotmesh.com/docs/vexv5-python/html/annotated.html
 
+# More Examples
+
+For more examples than the ones provided please check out my main vex robotics repositiory https://github.com/dombarter/choochoochoo where you can see the code for the 2018-2019 Turning Point game. 
+
+# Help
+
+If you need any help with programming or designing robots please don't hesitate to contact me, my email can be found on my profile page: https://github.com/dombarter
