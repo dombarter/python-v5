@@ -30,6 +30,10 @@ For documentation on the vex python library:
 
 https://www.robotmesh.com/docs/vexv5-python/html/annotated.html
 
+For documentation for EDR:
+
+https://www.robotmesh.com/docs/vexcortex-python/html/classvex_1_1_motor.html#details
+
 # More Examples
 
 For more examples than the ones provided please check out my main vex robotics repositiory https://github.com/dombarter/choochoochoo where you can see the code for the 2018-2019 Turning Point game. 
